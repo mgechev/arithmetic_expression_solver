@@ -211,6 +211,6 @@ int calculate(char *expression)
 
 int main()
 {
-	cout<<"2*(6+3*8/4) = "<<calculate("2*(6+3*8/4-2)")<<endl;
+	cout<<"2*(6+3*8/4-2) = "<<calculate("2*(6+3*8/4-2)")<<endl;
 	return 0;
 }
