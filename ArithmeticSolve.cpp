@@ -1,5 +1,5 @@
 // ArithmeticSolve.cpp : Defines the entry point for the console application.
-//Withot Magdalina Todorova's textbook
+//Without Magdalina Todorova's textbook
 
 #include "stdafx.h"
 #include <iostream>
